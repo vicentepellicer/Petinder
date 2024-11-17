@@ -1,0 +1,449 @@
+{
+	"dropdown": {
+		"select": "Selecciona una opción"
+	},
+	"validations": {
+		"required": "Este campo es obligatorio",
+		"email": "Introduce un correo electrónico válido",
+		"email_exists": "Correo electrónico ya en uso",
+		"strong_password": "La contraseña debe tener al menos {min} caracteres, una letra mayúscula, una letra minúscula y un número",
+		"passwords_match": "Las contraseñas no coinciden",
+		"min_length": "Este campo debe tener al menos {min} caracteres",
+		"number": "Espera un número en lugar de una cadena",
+		"terms": "Debes aceptar los términos y condiciones",
+		"phone": "El número de teléfono debe seguir este formato, por ejemplo, +0123456789",
+		"gender": "Por favor, selecciona tu género",
+		"zip_code": "Código postal inválido",
+		"birth_date": "Por favor, selecciona tu fecha de nacimiento",
+		"invalid_date_type": "Fecha inválida",
+		"country": "Por favor, selecciona tu país",
+		"region": "Por favor, selecciona tu región",
+		"location": "Por favor, selecciona tu localidad",
+		"address": "Por favor, introduce tu dirección",
+		"email_not_found": "Correo electrónico no encontrado"
+	},
+	"sidemenu": {
+		"home": "Inicio",
+		"calendar": "Calendario",
+		"vets": "Veterinarios",
+		"pet_friendly_places": "Lugares pet friendly",
+		"lost_found": "Perdidos / Encontrados",
+		"messages": "Mensajes",
+		"academy": "Academia",
+		"adoptions": "Adopciones",
+		"videos": "Vídeos",
+		"explore": "Explorar",
+		"blog": "Blog",
+		"favorites": "Favoritos",
+		"about": "Sobre nosotros",
+		"account": "Mi cuenta",
+		"logout": "Cerrar sesión",
+		"login": "Iniciar sesión",
+		"animals_wellbeing": "Bienestar animal",
+		"sports": "Deportes",
+		"sports_animals": "Deportes y animales",
+		"curiosities": "Curiosidades",
+		"food": "Comida",
+		"health": "Salud",
+		"help": "Ayuda",
+		"legislation": "Legislaciones",
+		"parties_and_festivities": "Fiestas y festividades",
+		"service_animals": "Animales de servicio",
+		"tips": "Consejos",
+		"featured": "Destacados",
+		"interviews": "Entrevistas",
+		"sponsored": "Patrocinados",
+		"pet_friendly": "Pet friendly",
+		"dog_beaches": "Playas caninas",
+		"pet_friendly_accommodations": "Alojamiento pet friendly",
+		"water_parks_for_dogs": "Parques acuáticos caninos",
+		"pet_shelters": "Protectora de animales",
+		"social": "Social",
+		"gifts": "Regalos",
+		"traveling_with_pets": "Viajes con animales",
+		"search": "Buscar",
+		"pets_adoption": "Animales en adopción",
+		"places": "Lugares",
+		"events": "Eventos",
+		"about_petinder": "Sobre nosotros",
+		"social_impact": "Impacto social",
+		"society": "Sociedad",
+		"contact_us": "Contáctenos",
+		"privacy_policy": "Política de privacidad",
+		"add_places": "Agregar Lugares"
+	},
+	"home": {
+		"navbar": {
+			"search": "Buscar",
+			"urgent": "Urgentes",
+			"veterinarians": "Veterinarios",
+			"shelters": "Protectoras",
+			"pet_friendly": "Lugares pet friendly",
+			"partnerships": "Colaboraciones",
+			"blog": "Blog",
+			"lost": "Perdidos / Encontrados",
+			"curiosities": "Curiosidades"
+		},
+		"hero_section": {
+			"title": "¡Adopta, ama, repite!",
+			"subtitle": "El ecosistema y solución más grande para el mundo animal. Con Petinder, puedes encontrar y adoptar a tu compañero ideal, conectar con otros amantes de los animales y descubrir fácilmente servicios y lugares amigables con las mascotas cerca de ti.",
+			"subtitle_short": "El ecosistema y solución para el mundo animal.",
+			"buttons": {
+				"get_started": "Crear una cuenta",
+				"learn_more": "¡Saber más sobre nosotros!"
+			}
+		},
+		"search_bar": {
+			"label": "¡Encuentra tu nuevo mejor amigo!",
+			"placeholder": "Introduce tu ubicación",
+			"category": {
+				"pets": "Mascotas",
+				"health": "Salud",
+				"services": "Servicios",
+				"lodging": "Alojamiento",
+				"outdoor": "Exterior",
+				"indoor": "Interior"
+			}
+		},
+		"sections": {
+			"urgent_section_title": "Adopciones urgentes",
+			"lost_found_section_title": "Perdidos y Encontrados",
+			"services_places_section_title": "Servicios y Lugares",
+			"community_blog_section_title": "Blog de la comunidad",
+			"partnerships_section_title": "Colaboraciones"
+		}
+	},
+	"not_found": {
+		"title": "Página no encontrada",
+		"message": "La página que estás buscando no existe",
+		"action": "Ir al inicio"
+	},
+	"user_profile": {
+		"title": "Por favor completa tu perfil",
+		"personal_info_section_title": "Información personal",
+		"address_section_title": "¿Donde vives?",
+		"interests_section": {
+			"title": "Elije tus intereses",
+			"description": "Selecciona algunos de tus intereses y deja que todos sepan lo que te apasiona."
+		},
+		"notifications": {
+			"success": "Perfil actualizada correctamente",
+			"error": "Fallo al actualizar perfil"
+		}
+	},
+	"pet_profile": {
+		"greeting": "Hola, soy tú nuevo mejor amigo",
+		"name": "Me llamo {name}",
+		"meet_me": "Conóceme",
+		"traits": "Rasgos de mi personalidad",
+		"age": {
+			"title": "Edad",
+			"puppy": "Cachorro",
+			"young": "Joven",
+			"adult": "Adulto",
+			"senior": "Senior"
+		},
+		"breed": "Raza",
+		"gender": {
+			"title": "Género",
+			"male": "Macho",
+			"female": "Hembra"
+		},
+		"size": "Tamaño <br></br> estimado",
+		"also": "También para adoptar",
+		"dont_have_picture": "Aun no tengo una imagen"
+	},
+	"sign_up": {
+		"title": "Crear una cuenta",
+		"subtitle": "Únete a la comunidad de Petinder",
+		"terms": "Debes aceptar los <terms>términos y condiciones</terms> de uso y la <privacy>política de privacidad</privacy> de Petinder",
+		"subscribe": "Me gustaría recibir información sobre productos promocionales y servicios de Petinder.",
+		"have_account": "¿Ya tienes una cuenta?",
+		"notifications": {
+			"success": "Cuenta creada correctamente, verifica tu correo electrónico.",
+			"error": "Fallo al crear cuenta"
+		}
+	},
+	"inputs": {
+		"name": "Nombre",
+		"name_placeholder": "Introduce tu nombre",
+		"first_name": "Nombre",
+		"first_name_placeholder": "Introduce tu nombre",
+		"last_name": "Apellidos",
+		"last_name_placeholder": "Introduce tus apellidos",
+		"birth_date": "Fecha de nacimiento",
+		"date_placeholder": "dd/mm/aaaa",
+		"email": "Correo electrónico",
+		"email_placeholder": "Introduce tu correo electrónico",
+		"password": "Contraseña",
+		"password_confirm": "Confirmar contraseña",
+		"phone": "Número de teléfono",
+		"phone_placeholder": "Introduce tu número de teléfono",
+		"address": "Dirección",
+		"address_placeholder": "Introduce tu dirección",
+		"zip_code": "Código postal",
+		"zip_code_placeholder": "Introduce tu código postal"
+	},
+	"selectors": {
+		"gender": "Género",
+		"gender_options": {
+			"male": "Hombre",
+			"female": "Mujer",
+			"other": "Otro",
+			"default": "Por favor, selecciona tu género"
+		},
+		"country": "País",
+		"country_options": {
+			"default": "Por favor, selecciona tu país"
+		},
+		"region": "Región",
+		"region_options": {
+			"default": "Por favor, selecciona tu región"
+		},
+		"location": "Localidad",
+		"location_options": {
+			"default": "Por favor, selecciona tu localidad"
+		}
+	},
+	"buttons": {
+		"close": "Cerrar",
+		"loading": "Cargando...",
+		"save": "Guardar",
+		"login": "Iniciar sesión",
+		"sign_up": "Registrarse",
+		"see_all": "Ver todos",
+		"search": "Buscar",
+		"share": "Compartir",
+		"current_location": "Usar ubicación actual",
+		"view_all": "Ver todas"
+	},
+	"login": {
+		"title": "Iniciar sesión",
+		"subtitle": "Bienvenido de nuevo",
+		"forgot_password": "¿Has olvidado tu contraseña?",
+		"reset_password": "Restablecer",
+		"no_account": "¿No tienes una cuenta?",
+		"notifications": {
+			"login_failed": "Error al iniciar sesión",
+			"login_success": "Sesión iniciada correctamente",
+			"wrong_credentials": "Credenciales incorrectas",
+			"welcome": "Bienvenido de nuevo {name}"
+		}
+	},
+	"forgot_password": {
+		"title": "¿Tienes problemas para entrar?",
+		"subtitle": "Introduce tu correo electrónico y te enviaremos un enlace para restablecer tu contraseña",
+		"button": "Enviar enlace",
+		"notifications": {
+			"failed": "Error al enviar enlace de restablecimiento de contraseña",
+			"success": "Enlace de restablecimiento de contraseña enviado correctamente"
+		}
+	},
+	"reset_password": {
+		"title": "Introduce tu nueva contraseña",
+		"button": "Restablecer contraseña",
+		"notifications": {
+			"failed": "Error al restablecer contraseña",
+			"success": "La contraseña ha sido cambiada correctamente"
+		}
+	},
+	"requests": {
+		"request_failed": "Solicitud fallida"
+	},
+	"explore": {
+		"title": "¡Adopta, quiere, repite!",
+		"filters": {
+			"title": "Filtros",
+			"location": "Localidad",
+			"distance": "Distancia",
+			"pet_specie": {
+				"title": "Especie",
+				"placeholder": "Selecciona una especie",
+				"dog": "Perro",
+				"cat": "Gato",
+				"rabbit": "Conejo",
+				"reptile": "Reptil",
+				"rodent": "Roedor",
+				"horse": "Caballo",
+				"fish": "Pez",
+				"other": "Otros"
+			},
+			"age": {
+				"title": "Edad",
+				"puppy": "Cachorro",
+				"young": "Joven",
+				"adult": "Adulto",
+				"senior": "Senior"
+			},
+			"gender": {
+				"title": "Género",
+				"male": "Macho",
+				"female": "Hembra"
+			},
+			"size": {
+				"title": "Tamaño",
+				"small": "Chico",
+				"medium": "Mediano",
+				"large": "Grande"
+			},
+			"color": {
+				"title": "Color",
+				"white": "Blanco",
+				"black": "Negro",
+				"brown": "Marrón",
+				"gray": "Gris"
+			},
+			"requirements": {
+				"title": "Requerimientos",
+				"placeholder": "Elige los requerimientos",
+				"search_placeholder": "Buscar requerimientos",
+				"kid_friendly": "Apto para niños",
+				"dog_friendly": "Apto para perros",
+				"cat_friendly": "Apto para gatos",
+				"hypoallergenic": "Hipoalergénico",
+				"house_trained": "Entrenado",
+				"little_exercise": "Necesita poco ejercicio",
+				"apartment_fit": "Apto para apartamentos"
+			},
+			"accessibility": {
+				"title": "Accesibilidad",
+				"wheelchair_access": "Acceso para discapacitados",
+				"elevator": "Ascensor",
+				"step_free": "Paso libre",
+				"disabled_parking": "Estacionamiento  discapacitados"
+			},
+			"budget": {
+				"title": "Presupuesto"
+			},
+			"operating_hours": {
+				"title": "Horarios",
+				"open_now": "Abierto ahora",
+				"extended_hours": "Horarios extendidos",
+				"weekends": "Fines de semana"
+			},
+			"services": {
+				"title": "Servicios"
+			},
+			"service_availability": {
+				"title": "Disponibilidad de servicios",
+				"domiciliary_visit": "Visita domiciliaria",
+				"on_site": "Telemático"
+			},
+			"ratings": {
+				"title": "Calificaciones"
+			},
+			"outdoors": {
+				"title": "Exterior"
+			},
+			"pet_facilities": {
+				"title": "Facilidades para mascotas",
+				"play_area": "Zona de juego",
+				"waste_disposal": "Desperdicio",
+				"water_stations": "Estaciones de agua",
+				"rest_stops": "Paradas de descanso"
+			},
+			"seasons": {
+				"title": "Estaciones",
+				"summer": "Verano",
+				"winter": "Invierno",
+				"year_round": "Todo el año",
+				"favorable_weather": "Clima favorable"
+			},
+			"difficulty": {
+				"title": "Dificultad",
+				"level": {
+					"title": "Nivel",
+					"easy": "Fácil",
+					"moderate": "Moderado",
+					"high": "Dificil"
+				},
+				"approximate_duration": {
+					"title": "Duración aproximada"
+				},
+				"surface": {
+					"title": "Superficie",
+					"smooth": "Suave",
+					"rough": "Rugosa",
+					"slope": "Pendiente"
+				}
+			},
+			"cost": {
+				"title": "Costo",
+				"free": "Gratis",
+				"entry_fee": "Con pago",
+				"voluntary_donation": "Donativo voluntario"
+			}
+		},
+		"buttons": {
+			"save_selections": "Guardar",
+			"reset": "Restablecer"
+		},
+		"results": {
+			"buttons": {
+				"list": "Lista",
+				"map": "Mapa"
+			},
+			"no_results": {
+				"title": "No hay resultados que coincidan con tu búsqueda.",
+				"message": "Prueba eliminando algunos filtros"
+			},
+			"error": "Something went wrong"
+		}
+	},
+	"footer": {
+		"title": "Encuentra y adopta tu mascota ideal",
+		"group_links": {
+			"labels": {
+				"about_us": "Sobre nosotros",
+				"sitemap": "Mapa del sitio"
+			},
+			"links": {
+				"we_are_petinder": "Somos Petinder.online",
+				"contact_us": "Contáctenos",
+				"partnership": "Partnership",
+				"sustainability": "Sostenibilidad",
+				"pet_shelters": "Protectoras",
+				"services": "Servicios",
+				"lodging": "Hospedaje",
+				"outdoor_indoor_places": "Lugares exteriores e interiores",
+				"health": "Salud",
+				"community_blog": "Blog de la comunidad",
+				"lost_found": "Perdidos / Encontrados",
+				"the_team": "El equipo"
+			}
+		},
+		"socials": {
+			"title": "Síguenos en nuestras redes"
+		},
+		"copyright": "El buscador de protectoras de animales y web para las mascotas"
+	},
+	"cards": {
+		"blog_card": {
+			"posted": "Publicado"
+		},
+		"lost_found_card": {
+			"lost": "Perdido",
+			"found": "Encontrado",
+			"address": "Dirección",
+			"date_lost": "Fecha de pérdida",
+			"date_found": "Fecha de encuentro",
+			"details": "Detalles",
+			"action": "Contactar"
+		},
+		"pet_card": {
+			"action": "¡Conóceme!",
+			"urgent": "Urgente"
+		}
+	},
+	"category_selector": {
+		"pets": "Mascotas",
+		"health": "Salud",
+		"services": "Servicios",
+		"lodging": "Alojamiento",
+		"outdoor": "Exterior",
+		"indoor": "Interior"
+	},
+	"other": {
+		"distance": "¡{distance}m de ti!"
+	}
+}

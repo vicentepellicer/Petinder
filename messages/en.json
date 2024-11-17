@@ -1,0 +1,443 @@
+{
+	"dropdown": {
+		"select": "Select an option"
+	},
+	"validations": {
+		"required": "This field is required",
+		"email": "Invalid email address",
+		"email_exists": "Email already in use",
+		"strong_password": "Password must contain at least {min} characters, one uppercase letter, one lowercase letter, one number and one special character",
+		"passwords_match": "Passwords do not match",
+		"min_length": "This field must contain at least {min} characters",
+		"number": "Expect a number instead of a string",
+		"terms": "You must accept the terms and conditions",
+		"phone": "Please ensure it follows the correct format, including the country code if applicable, such as +1234567890",
+		"gender": "Please select your gender",
+		"zip_code": "Invalid zip code",
+		"birth_date": "Please select your date of birth",
+		"invalid_date_type": "Invalid date",
+		"country": "Please select your country",
+		"region": "Please select your region",
+		"location": "Please select your location",
+		"address": "Please enter your address",
+		"email_not_found": "Email not found"
+	},
+	"sidemenu": {
+		"home": "Home",
+		"calendar": "Calendar",
+		"vets": "Veterinarians",
+		"pet_friendly_places": "Pet friendly places",
+		"lost_found": "Lost / Found",
+		"messages": "Messages",
+		"academy": "Academy",
+		"adoptions": "Adoptions",
+		"videos": "Videos",
+		"explore": "Explore",
+		"blog": "Blog",
+		"favorites": "Favorites",
+		"about": "About us",
+		"account": "My account",
+		"logout": "Logout",
+		"login": "Login",
+		"animals_wellbeing": "Animals wellbeing",
+		"sports": "Sports",
+		"sports_animals": "Sports and animals",
+		"curiosities": "Curiosities",
+		"food": "Food",
+		"health": "Health",
+		"help": "Help",
+		"legislation": "Legislation",
+		"parties_and_festivities": "Parties & festivities",
+		"service_animals": "Service animals",
+		"tips": "Tips",
+		"featured": "Featured",
+		"interviews": "Interviews",
+		"sponsored": "Sponsored",
+		"pet_friendly": "Pet friendly",
+		"dog_beaches": "Dog beaches",
+		"pet_friendly_accommodations": "Pet friendly accommodations",
+		"water_parks_for_dogs": "Water parks for dogs",
+		"pet_shelters": "Pet shelters",
+		"social": "Social",
+		"gifts": "Gifts",
+		"traveling_with_pets": "Traveling with pets",
+		"search": "Search",
+		"pets_adoption": "Pets in Adoption",
+		"places": "Places",
+		"events": "Events",
+		"about_petinder": "About us",
+		"social_impact": "Social impact",
+		"society": "Society",
+		"contact_us": "Contact us",
+		"privacy_policy": "Privacy policy",
+		"add_places": "Add places"
+	},
+	"home": {
+		"navbar": {
+			"search": "Search",
+			"urgent": "Urgent",
+			"veterinarians": "Veterinarians",
+			"shelters": "Shelters",
+			"pet_friendly": "Pet friendly places",
+			"partnerships": "Partnerships",
+			"blog": "Blog",
+			"lost": "Lost / Found",
+			"curiosities": "Curiosities"
+		},
+		"hero_section": {
+			"title": "Adopt, Love, Repeat!",
+			"subtitle": "The largest ecosystem and solution for the animal world. With Petinder, you can find and adopt your ideal companion, connect with other animal lovers, and easily discover pet-friendly services and places near you.",
+			"subtitle_short": "The largest ecosystem and solution for the animal world.",
+			"buttons": {
+				"get_started": "Create an account",
+				"learn_more": "Learn more about us!"
+			}
+		},
+		"search_bar": {
+			"label": "Find your new best friend!",
+			"placeholder": "Enter your location",
+			"category": {
+				"pets": "Pets",
+				"health": "Health",
+				"services": "Services",
+				"lodging": "Lodging",
+				"outdoor": "Outdoor",
+				"indoor": "Indoor"
+			}
+		},
+		"sections": {
+			"urgent_section_title": "Urgent adoptions",
+			"lost_found_section_title": "Lost and Found",
+			"services_places_section_title": "Services and places",
+			"community_blog_section_title": "Community Blog",
+			"partnerships_section_title": "Partnerships"
+		}
+	},
+	"not_found": {
+		"title": "Page not found",
+		"message": "The page you are looking for does not exist.",
+		"action": "Return Home"
+	},
+	"user_profile": {
+		"title": "Please complete your profile",
+		"personal_info_section_title": "Personal information",
+		"address_section_title": "Where do you live?",
+		"interests_section": {
+			"title": "Choose your interests",
+			"description": "Select a few of your interests and let everyone know what you are passionate about."
+		},
+		"notifications": {
+			"success": "Profile updated successfully",
+			"error": "Failed to update profile"
+		}
+	},
+	"pet_profile": {
+		"greeting": "Hi, I’m you new best friend",
+		"name": "My name is {name}",
+		"meet_me": "Meet me",
+		"traits": "Traits of my personality",
+		"age": {
+			"title": "Age",
+			"puppy": "Puppy",
+			"young": "Young",
+			"adult": "Adult",
+			"senior": "Senior"
+		},
+		"breed": "Breed",
+		"gender": {
+			"title": "Gender",
+			"male": "Male",
+			"female": "Female"
+		},
+		"size": "Estimated <br></br> size",
+		"also": "Also up for adoptions",
+		"dont_have_picture": "I don't have a picture yet"
+	},
+	"sign_up": {
+		"title": "Sign Up",
+		"subtitle": "Join the Petinder community",
+		"terms": "I accept the <terms>terms and conditions</terms> of use and <privacy>privacy policy</privacy> of Petinder.",
+		"subscribe": "I would like to receive your newsletter and other promotional information.",
+		"have_account": "Already have an account?",
+		"notifications": {
+			"success": "Account created successfully you can now confirm your email",
+			"error": "Failed to create account"
+		}
+	},
+	"inputs": {
+		"name": "Name",
+		"name_placeholder": "Enter your name",
+		"first_name": "First name",
+		"first_name_placeholder": "Enter your first name",
+		"last_name": "Last name",
+		"last_name_placeholder": "Enter your last name",
+		"birth_date": "Date of birth",
+		"date_placeholder": "dd/mm/yyyy",
+		"email": "Email",
+		"email_placeholder": "Enter your email",
+		"password": "Password",
+		"password_confirm": "Confirm password",
+		"phone": "Phone number",
+		"phone_placeholder": "Enter your phone number",
+		"address": "Address",
+		"address_placeholder": "Enter your address",
+		"zip_code": "Zip code",
+		"zip_code_placeholder": "Enter your zip code"
+	},
+	"selectors": {
+		"gender": "Gender",
+		"gender_options": {
+			"male": "Male",
+			"female": "Female",
+			"other": "Other",
+			"default": "Please select your gender"
+		},
+		"country": "Country",
+		"country_options": {
+			"default": "Please select your country"
+		},
+		"region": "Region",
+		"region_options": {
+			"default": "Please select your region"
+		},
+		"location": "Location",
+		"location_options": {
+			"default": "Please select your location"
+		}
+	},
+	"buttons": {
+		"close": "Close",
+		"loading": "Loading...",
+		"save": "Save",
+		"login": "Login",
+		"sign_up": "Sign Up",
+		"see_all": "See all",
+		"search": "Search",
+		"share": "Share",
+		"current_location": "Use current location",
+		"view_all": "View all"
+	},
+	"login": {
+		"title": "Login",
+		"subtitle": "Welcome back to Petinder",
+		"forgot_password": "Forgot your password?",
+		"reset_password": "Reset",
+		"no_account": "Don't have an account?",
+		"notifications": {
+			"failed": "Login failed",
+			"success": "Login successful",
+			"wrong_credentials": "Wrong email or password",
+			"welcome": "Welcome back {name}"
+		}
+	},
+	"forgot_password": {
+		"title": "Trouble logging in?",
+		"subtitle": "Enter your email and we'll send you a link to reset your password",
+		"button": "Send reset link",
+		"notifications": {
+			"failed": "Failed to send reset link",
+			"success": "Reset link sent successfully"
+		}
+	},
+	"reset_password": {
+		"title": "Enter new password",
+		"button": "Reset password",
+		"notifications": {
+			"failed": "Failed to reset password",
+			"success": "Password was reset successfully"
+		}
+	},
+	"requests": {
+		"request_failed": "Request failed"
+	},
+	"explore": {
+		"title": "Adopt, Love, Repeat!",
+		"filters": {
+			"title": "Filters",
+			"location": "Location",
+			"distance": "Distance",
+			"pet_specie": {
+				"title": "Pet specie",
+				"placeholder": "Select specie",
+				"dog": "Dog",
+				"cat": "Cat",
+				"rabbit": "Rabbit",
+				"reptile": "Reptile",
+				"rodent": "Rodent",
+				"horse": "Horse",
+				"fish": "Fish",
+				"other": "Other"
+			},
+			"age": {
+				"title": "Age",
+				"puppy": "Puppy",
+				"young": "Young",
+				"adult": "Adult",
+				"senior": "Senior"
+			},
+			"gender": {
+				"title": "Gender",
+				"male": "Male",
+				"female": "Female"
+			},
+			"color": {
+				"title": "Color",
+				"white": "White",
+				"black": "Black",
+				"brown": "Brown",
+				"gray": "Gray"
+			},
+			"requirements": {
+				"title": "Requirements",
+				"placeholder": "Select requirement",
+				"search_placeholder": "Search requirement",
+				"kid_friendly": "Kid friendly",
+				"dog_friendly": "Dog friendly",
+				"cat_friendly": "Cat friendly",
+				"hypoallergenic": "Hypoallergenic",
+				"house_trained": "House trained",
+				"little_exercise": "Little exercise needed",
+				"apartment_fit": "Apartment fit"
+			},
+			"accessibility": {
+				"title": "Accessibility",
+				"wheelchair_access": "Wheelchair access",
+				"elevator": "Elevator",
+				"step_free": "Step free",
+				"disabled_parking": "Disabled parking"
+			},
+			"budget": {
+				"title": "Budget"
+			},
+			"operating_hours": {
+				"title": "Operating hours",
+				"open_now": "Open now",
+				"extended_hours": "Extended hours",
+				"weekends": "Weekends"
+			},
+			"services": {
+				"title": "Services"
+			},
+			"service_availability": {
+				"title": "Service Availability",
+				"domiciliary_visit": "Domiciliary visit",
+				"on_site": "On site"
+			},
+			"ratings": {
+				"title": "Ratings"
+			},
+			"outdoors": {
+				"title": "Outdoors"
+			},
+			"pet_facilities": {
+				"title": "Pet facilities",
+				"play_area": "Play area",
+				"waste_disposal": "Waste disposal",
+				"water_stations": "Water stations",
+				"rest_stops": "Rest stops"
+			},
+			"seasons": {
+				"title": "Seasons",
+				"summer": "Summer",
+				"winter": "Winter",
+				"year_round": "Year round",
+				"favorable_weather": "Favorable weather"
+			},
+			"difficulty": {
+				"title": "Difficulty",
+				"level": {
+					"title": "Level",
+					"easy": "Easy",
+					"moderate": "Moderate",
+					"high": "High"
+				},
+				"approximate_duration": {
+					"title": "Approximate duration"
+				},
+				"surface": {
+					"title": "Surface",
+					"smooth": "Smooth",
+					"rough": "Rough",
+					"slope": "Slope"
+				}
+			},
+			"cost": {
+				"title": "Cost",
+				"free": "Free",
+				"entry_fee": "Entry fee",
+				"voluntary_donation": "Voluntary donation"
+			}
+		},
+		"buttons": {
+			"save_selections": "Save selections",
+			"reset": "Reset"
+		},
+		"results": {
+			"buttons": {
+				"list": "List",
+				"map": "Map"
+			},
+			"no_results": {
+				"title": "There are no results matching your search.",
+				"message": "Try removing some filters"
+			},
+			"error": "Something went wrong"
+		}
+	},
+	"footer": {
+		"title": "Find and adopt your ideal companion pets",
+		"group_links": {
+			"labels": {
+				"about_us": "About us",
+				"sitemap": "Sitemap"
+			},
+			"links": {
+				"we_are_petinder": "We are Petinder.online",
+				"contact_us": "Contact us",
+				"partnership": "Partnership",
+				"sustainability": "Sustainability",
+				"pet_shelters": "Pet shelters",
+				"services": "Services",
+				"lodging": "Lodging",
+				"outdoor_indoor_places": "Outdoor & Indoor places",
+				"health": "Health",
+				"community_blog": "Community blog",
+				"lost_found": "Lost and found",
+				"the_team": "The team"
+			}
+		},
+		"socials": {
+			"title": "Join our community"
+		},
+		"copyright": "The animal shelter search engine and website for pets"
+	},
+	"cards": {
+		"blog_card": {
+			"posted": "Posted"
+		},
+		"lost_found_card": {
+			"lost": "Lost",
+			"found": "Found",
+			"address": "Address",
+			"date_lost": "Date lost",
+			"date_found": "Date found",
+			"details": "Details",
+			"action": "Contact"
+		},
+		"pet_card": {
+			"action": "Know me!",
+			"urgent": "Urgent"
+		}
+	},
+	"category_selector": {
+		"pets": "Pets",
+		"health": "Health",
+		"services": "Services",
+		"lodging": "Lodging",
+		"outdoor": "Outdoor",
+		"indoor": "Indoor"
+	},
+	"other": {
+		"distance": "{distance}m from you!"
+	}
+}

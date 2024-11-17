@@ -1,0 +1,38 @@
+{
+	"compilerOptions": {
+		"allowSyntheticDefaultImports": true,
+		"lib": ["dom", "dom.iterable", "esnext"],
+		"allowJs": true,
+		"skipLibCheck": true,
+		"strict": true,
+		"noEmit": true,
+		"esModuleInterop": true,
+		"module": "esnext",
+		"forceConsistentCasingInFileNames": true,
+		"moduleResolution": "bundler",
+		"resolveJsonModule": true,
+		"isolatedModules": true,
+		"jsx": "preserve",
+		"incremental": true,
+		"plugins": [
+			{
+				"name": "next"
+			}
+		],
+		"baseUrl": ".",
+		"paths": {
+			// Roots
+			"@/*": ["./src/*"],
+			"~/*": ["./*"],
+			// Components modules
+			"@layout": ["src/components/Layout"],
+			"@ui": ["./src/components/ui"],
+			// Business Logic Modules
+			"@auth": ["./src/modules/auth"],
+			"@user": ["./src/modules/user"]
+		},
+		"types": ["vitest/globals"]
+	},
+	"include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+	"exclude": ["node_modules"]
+}

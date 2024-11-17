@@ -1,0 +1,26 @@
+/* GoogleMaps InfoWindow  */
+
+.gm-style-iw {
+	height: auto !important;
+	min-height: none !important;
+	max-height: none !important;
+	width: auto !important;
+	padding: 0 !important;
+	@apply !rounded-3;
+}
+
+.gm-style-iw-d {
+	overflow: hidden !important;
+}
+
+.gm-style-iw-ch {
+	padding-top: 0 !important;
+}
+
+.gm-style-iw-tc::after {
+	display: none;
+}
+
+.gm-style-iw button.gm-ui-hover-effect {
+	display: none !important;
+}
